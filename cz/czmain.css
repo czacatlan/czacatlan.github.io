@@ -1,0 +1,61 @@
+/* Configuración especial */
+
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
+
+
+/* Configuración global */ 
+
+body{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 12pt;
+	background: url("Civil-Engineering.png") no-repeat fixed bottom right;
+
+}
+
+/* Configuración local */
+
+.main-block{
+margin: 0 auto;
+width: 600px;
+}
+
+.head-block{
+
+}
+
+.title-block{
+	font-family: 'Baloo Bhaina', cursive;
+	font-size: 34px;
+}
+
+.desc-block{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.desc-block-1{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	text-decoration: underline;
+
+}
+
+.body-block{
+	
+}
+
+.foot-block{
+	text-align: center;
+	margin-bottom: 100px;
+}
+.foot-w{
+	font-family: 'Baloo Bhaina', cursive;
+	font-size: 11pt;	
+}
+.foot-cel{
+	font-family: 'Share Tech Mono', monospace;
+	font-size: 11pt;
+}
